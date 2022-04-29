@@ -12,6 +12,6 @@ http-equiv="X-UA-Compatible" content="IE=edge">
 <title>Welcome to Ecom/title>
  </head>
  <body>
-
+<h1 style="color: red">Welcome to Master!.</h1>
 </body>
  </html>
